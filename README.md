@@ -27,8 +27,9 @@ Password:
 ```
 Start excuting queries in http://localhost:8080/graphiql
 
-![image](https://github.com/francois-poirier/poc-spring-graphql/blob/master/screenshots/findAllAlbums.png)
+![alt tag](https://github.com/francois-poirier/poc-spring-graphql/blob/master/screenshots/findAllAlbums.png)
 
 OR
 
-![Alt text](screenshots/newAlbum.png?raw=true "add new album to artist 1")
+![alt tag](https://github.com/francois-poirier/poc-spring-graphql/blob/master/screenshots/newAlbum.png)
+
