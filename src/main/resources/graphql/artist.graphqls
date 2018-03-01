@@ -1,0 +1,15 @@
+type Artist { 
+  id: ID! 
+  firstName: String!
+  lastName: String!  
+  country: String! 
+}
+
+type Query {
+    findAllArtists: [Artist]!
+    countArtists: Long!
+}
+
+type Mutation {
+    newArtist(firstName: String!, lastName: String!, country: String!) : Artist!
+}
