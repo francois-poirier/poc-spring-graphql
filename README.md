@@ -27,10 +27,10 @@ Password:
 ```
 Start excuting queries in http://localhost:8080/graphiql
 
-![findallalbums](https://user-images.githubusercontent.com/14827478/36838734-46c8ab3a-1d40-11e8-8d3f-9270f5cfdd90.png)
+![findallalbums](https://user-images.githubusercontent.com/14827478/36838862-a023cc5a-1d40-11e8-980f-2e0e69216600.png)
 
 OR
 
-![newalbum](https://user-images.githubusercontent.com/14827478/36838753-56c8542c-1d40-11e8-85e3-47f21d50d77d.png)
+![newalbum](https://user-images.githubusercontent.com/14827478/36838871-a40e0b1e-1d40-11e8-805a-4c135db00c3f.png)
 
 
