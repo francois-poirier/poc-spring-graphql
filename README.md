@@ -27,10 +27,9 @@ Password:
 ```
 Start excuting queries in http://localhost:8080/graphiql
 
-![](screenshots/findAllAlbums.png)
+![alt tag](https://user-images.githubusercontent.com/14827478/36838862-a023cc5a-1d40-11e8-980f-2e0e69216600.png)
 
 OR
 
-![](screenshots/newAlbum.png)
-
+![alt tag](https://user-images.githubusercontent.com/14827478/36838871-a40e0b1e-1d40-11e8-805a-4c135db00c3f.png)
 
