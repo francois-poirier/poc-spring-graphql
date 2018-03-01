@@ -27,10 +27,10 @@ Password:
 ```
 Start excuting queries in http://localhost:8080/graphiql
 
-<img src="https://github.com/francois-poirier/poc-spring-graphql/blob/master/screenshots/findAllAlbums.png">
+![Find All Albums](https://drive.google.com/open?id=14AVmpRXjV1reHN4Pq0ov5T5sjCUZ5zgv)
 
 OR
 
-<img src="https://github.com/francois-poirier/poc-spring-graphql/blob/master/screenshots/newAlbum.png">
+![Add Album](https://drive.google.com/open?id=1tYLoYx04uAh8S1wotxH7gvEwIZpQnm1o)
 
 
