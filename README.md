@@ -27,8 +27,8 @@ Password:
 ```
 Start excuting queries in http://localhost:8080/graphiql
 
-![Alt text](screenshots/findAllAlbums.png?raw=true "find all albums")
+![Alt text](/screenshots/findAllAlbums.png?raw=true "find all albums")
 
 OR
 
-![Alt text](screenshots/newAlbum.png?raw=true "add new album to artist 1")
+![Alt text](/screenshots/newAlbum.png?raw=true "add new album to artist 1")
