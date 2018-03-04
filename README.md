@@ -15,7 +15,7 @@ Clone or fork the repo
 
      git clone https://github.com/francois-poirier/poc-spring-graphql.git
      cd poc-spring-graphql
-     mvnw spring-boot:run
+     ./mvnw spring-boot:run
 
 You can go to http://localhost:8080/h2-console/login.jsp and enter the following information:
 
